@@ -97,3 +97,8 @@ See screenshots below showing the employee directory and the admin flow (add, ed
 ![Admin flow](screenshots/demoo2.png)
 ![Admin view with edit/delete/add options](screenshots/demoo3.png)
 ![Edit employee form](screenshots/demoo4.png)
+
+## Live Demo
+
+- Frontend: https://wd-2-employee-management-byte.vercel.app
+- Backend API: https://wd2employeemanagementbyte-production.up.railway.app
